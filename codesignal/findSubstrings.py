@@ -100,7 +100,6 @@ def findSubstrings(words, parts):
     # https://www.geeksforgeeks.org/trie-insert-and-search/
 
 
-    # passing 6 of 9 
 # Input:
 # words:
 # ["Apple", 
