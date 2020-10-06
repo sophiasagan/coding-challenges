@@ -2,7 +2,7 @@
 from __future__ import unicode_literals
 import unittest
 
-from anagram import is_anagram
+from is_anagram import is_anagram
 
 
 class IsAnagramTests(unittest.TestCase):
